@@ -1,0 +1,4 @@
+/home/xiangqian/Download/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/xiangqian/C++projects/g2o_test
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xiangqian/C++projects/g2o_test/cmake-build-debug
